@@ -48,14 +48,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn
   - R² Score
 - Visualizations help understand feature importance and prediction accuracy.
 
----
-
-## ✍️ Author
-
-- [Your Name Here]
-
----
-
-## 📌 Note
-
-Ensure the Excel dataset is in the same directory as the notebook before execution.
